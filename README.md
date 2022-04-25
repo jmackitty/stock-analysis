@@ -1,6 +1,6 @@
 # stock-analysis
 Project to analyze stocks
-#Overview of Project
+--#Overview of Project
 
 The purpose of this project was to calculate the returns for 12 stocks, using the years 2017 and 2018. We previously created code to pull these values, but the goal was to create a code that could pull the data in a faster time frame. We refactored existing code with the code of improving it to run faster.
 ---
